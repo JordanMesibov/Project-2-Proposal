@@ -3,16 +3,26 @@
 <h5>Jordan Mesibov's Project 2 Proposal</h5>
 
 <h2>Project 2 Requirements</h2>
-----------------------
+-------------------------------------------------------------------------
+<br>
 * `Node.js + express`
+<br>
 * `Sequelize w/ Object Relational Mapper (ORM)`
+<br>
 * `GET and POST routes`
+<br>
 * `Heroku Deployment`
+<br>
 * `1 new Library, package, or technology we haven't used in bootcamp yet`
+<br>
 * `Polished frontend/UI`
+<br>
 * `MVC Paradigm folder organization`
+<br>
 * `Protect/hide sensitive data (ie API keys)`
+<br>
 * `Adhere to good coding standards/practices (ie proper indentation/spacing)`
+<br>
 -----------------------------------------------------------------------------
 
 <h1>There are two objectives/functions that the travel app could help accomplish:</h1>
@@ -49,7 +59,7 @@
   8. Provide a GUI that allows the group leader to post when the group plans to go on vacation. Maybe they can input a range of dates/times. Use this and moment and/or sequelize to display a countdown until that time frame. Make this large and near the top of the screen (without being obnoxious) to help pressure group members to take action inside the app.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
-BACK-END:
+<h1>BACK-END:</h1>
 
   1. Set up/create a database/schema that would store various tables.
 
@@ -65,7 +75,7 @@ BACK-END:
       }
     })
   
-    }
+    } ......
       ----(I haven't checked the syntax of this b/c it's just an idea of an approach, we would also need dotenv for private information)
       * This is obviously not the best way to handle the use of passwords, but it could work for the proof of concept of the app.   -When we learn about sessions and Passport on Monday, we will likely change our approach to authentication.
 
