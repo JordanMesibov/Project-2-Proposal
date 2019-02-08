@@ -67,7 +67,7 @@
     - This table could be used for user authentication as well (or we could use a new table to store passwords and use foreign keys/joins to link them). Allow group members to set their own passwords to be stored in MySQL database. Once a password is set, trigger a boolean flag concerning whether the password has been created yet to flip.
     - When that user visits the app/site in the future, they would be prompted to log in and we would perform something like:
 
-    ......get("/api/blahblahblah.......(route info for the GET function and other relevant code) function() {
+    ...get("/api/blahblahblah...(route info for the GET function and other relevant code) function() {
     
     db.sequelize.findOne({
       where: {
@@ -75,8 +75,8 @@
       }
     })
   
-    } ......
-      ----(I haven't checked the syntax of this b/c it's just an idea of an approach, we would also need dotenv for private information)
+    } ...
+      -(I haven't checked the syntax of this b/c it's just an idea of an approach, we would also need dotenv for private information)
       * This is obviously not the best way to handle the use of passwords, but it could work for the proof of concept of the app.   -When we learn about sessions and Passport on Monday, we will likely change our approach to authentication.
 
     3. Make a table of vacation destinations that the users suggest, captured via the GUI/frontend.
