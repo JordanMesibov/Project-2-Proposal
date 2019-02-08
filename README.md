@@ -94,5 +94,5 @@
 <br>
 <h2>Try to make all of this as mobile-friendly as possible. If people have to get on a computer to use the app, its a barrier to entry/hurts the ease of use of the app itself.</h2>
 <h4>That being said, we have limited time to get it all up and running. We'll do what we can!</h4>
-<br>
+
 <h3>These are just some things we could try to implement that I thought of today. Plans will surely evolve and change if we go with this app for our project. I am open to any and all sugestions, critiques, concerns, etc. as I am sure there are many other potential features to include or to exclude and better ways to go about handling/coding them. Like I said earlier in class, my priority is to help create a great project that will shine in my portfolio and in your portfolios. This app idea is just one possible way to approach that goal!</h3>
