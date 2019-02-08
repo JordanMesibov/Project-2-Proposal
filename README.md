@@ -79,17 +79,17 @@
       -(I haven't checked the syntax of this b/c it's just an idea of an approach, we would also need dotenv for private information)
       * This is obviously not the best way to handle the use of passwords, but it could work for the proof of concept of the app.   -When we learn about sessions and Passport on Monday, we will likely change our approach to authentication.
 
-    3. Make a table of vacation destinations that the users suggest, captured via the GUI/frontend.
+  3. Make a table of vacation destinations that the users suggest, captured via the GUI/frontend.
 
-    4. Make a table that would store user ratings of vacation destination possibilities.
+  4. Make a table that would store user ratings of vacation destination possibilities.
 
-    5. Make a table that would store the order/priority that each user gives to the vacation destination (ie a user may think Orlando and Jamaica are both 10 out of 10 because they love them both so much, but maybe they think Jamaica is a better choice, so they place Jamaica higher up in their personal list).
+  5. Make a table that would store the order/priority that each user gives to the vacation destination (ie a user may think Orlando and Jamaica are both 10 out of 10 because they love them both so much, but maybe they think Jamaica is a better choice, so they place Jamaica higher up in their personal list).
 
-    6. There would be plenty of backend work for figuring out how to organize the tables and how to link/join the tables in order to display different information to the user.
+  6. There would be plenty of backend work for figuring out how to organize the tables and how to link/join the tables in order to display different information to the user.
 
-    7. Access an API that we would use to populate a table to provide information and/or links to information about the suggested travel ideas. (ie if the group leader approves of a member's suggestion that they want the group to consider going to China, then clicking or hovering on China would do something to provide the user with information about China).
+  7. Access an API that we would use to populate a table to provide information and/or links to information about the suggested travel ideas. (ie if the group leader approves of a member's suggestion that they want the group to consider going to China, then clicking or hovering on China would do something to provide the user with information about China).
 
-    8. As mentioned in number 8 in the frontend section, capture dates of vacation times/ranges. Use this to display a countdown for the group members.
+  8. As mentioned in number 8 in the frontend section, capture dates of vacation times/ranges. Use this to display a countdown for the group members.
 --------------------------------------------------------------------------------
 <br>
 <h2>Try to make all of this as mobile-friendly as possible. If people have to get on a computer to use the app, its a barrier to entry/hurts the ease of use of the app itself.</h2>
